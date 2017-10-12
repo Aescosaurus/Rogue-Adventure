@@ -100,7 +100,8 @@ then
 			elif [ $command = $menu ]
 			then
 	
-					echo "Level: $char_level"  echo "Hit Points: $char_hp"
+					echo "Level: $char_level"
+					echo "Hit Points: $char_hp"
 					echo "Blocks: $char_block"
 					echo "Heal: $char_heal"
 					echo "Damage: $char_damage"
